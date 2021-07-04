@@ -1,0 +1,5 @@
+fb_login_btn_xpath = '/html/body/div/div/div[1]/div[2]/main/div/div[3]/form/div[1]/div/div[2]/div'
+fb_popup_email_inp_xpath = '//*[@id="email"]'
+fb_popup_pass_inp_xpath = '//*[@id="pass"]'
+fb_popup_login_btn_xpath = '//*[@id="loginbutton"]'
+like_btn_xpath = '/html/body/div/div/div[1]/main/div[2]/div/div/span/div[2]/div/div[2]/div/div[3]/div/div[1]'
